@@ -6,6 +6,7 @@ public class Test2 {
 	
 		System.out.println("this is adi");
 
+		System.out.println("just for change");
 	}
 
 }
