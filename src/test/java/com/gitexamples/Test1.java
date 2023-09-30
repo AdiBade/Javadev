@@ -8,6 +8,6 @@ public class Test1 {
 	 int j=20;
 	 int sum =i+j;
 	 
-	 System.out.println("total :"+ sum);
+	 System.out.println("total :"+ sum );
  }
 }
